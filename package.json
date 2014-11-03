@@ -2,7 +2,7 @@
   "name": "API-Project",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "heroku-server.js",
   "directories": {
     "test": "test"
   },
